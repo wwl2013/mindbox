@@ -1,0 +1,9 @@
+f:\projects\mindbox\ConsoleApplication1\ChainerTests\bin\Debug\ChainerTests.dll
+f:\projects\mindbox\ConsoleApplication1\ChainerTests\bin\Debug\ChainerTests.pdb
+f:\projects\mindbox\ConsoleApplication1\ChainerTests\bin\Debug\ConsoleApplication1.exe
+f:\projects\mindbox\ConsoleApplication1\ChainerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+f:\projects\mindbox\ConsoleApplication1\ChainerTests\bin\Debug\ConsoleApplication1.pdb
+f:\projects\mindbox\ConsoleApplication1\ChainerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+f:\projects\mindbox\ConsoleApplication1\ChainerTests\obj\Debug\ChainerTests.csprojResolveAssemblyReference.cache
+f:\projects\mindbox\ConsoleApplication1\ChainerTests\obj\Debug\ChainerTests.dll
+f:\projects\mindbox\ConsoleApplication1\ChainerTests\obj\Debug\ChainerTests.pdb
